@@ -1,6 +1,7 @@
+
 ### Welcome technovators!
 
-> the present is our past.
+> Learn, upskill and build with IEDC NSSCE 
 
 `the present is our past.`
 
